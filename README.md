@@ -1,4 +1,4 @@
-# Welcome to my portfol repository!
+# Welcome to my repository!
 
 A responsive and user-friendly Password Generator web app built using HTML, CSS, and JavaScript. This tool allows users to create strong and secure passwords instantly based on customizable criteria. Users can select password length and choose to include uppercase letters, lowercase letters, numbers, and special characters.
 The interface is clean and intuitive, ensuring a smooth user experience across all devices. Passwords are generated using JavaScript’s random functions, ensuring randomness and security. A copy-to-clipboard feature is included for convenience. The app also provides real-time feedback and alerts if the password strength is low or if no criteria are selected.
